@@ -18,4 +18,4 @@ First results:
 
 <img src="img/vis_1.gif" width="950px">
 
-![](img/vfx_graph_1.PNG)
+<img src="img/vfx_graph_1.PNG" width="950px">
