@@ -18,6 +18,7 @@
 - I learned the basics of react
 - I worked on the communication between the database and the visualisation with Ellina
 - We spent a lot of time on dicussing the website layout and design, the design of the illustrations, and the user interaction
+- Research on audio player integration for interview page
 
 ## INTERVIEWS
 - Rita suggested only using the audio or to alienate the footage in some way and we discussed and brainstormed about the idea. (Elaborate more, why..)
