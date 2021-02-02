@@ -32,7 +32,7 @@
 - We all added moods for the installation setup
 - Rita and I brainstormed a lot about setup, projection, user experience
 - Rita and I did some projection tests on a white sheet. I took photos and videos of it and edited them.
-- I looked up the studio layout and size + communication with Sehsüchte (GeKo)
+- I looked up the studio layout and size, as well as communicating with Sehsüchte (GeKo).
 - I built a miniature installation with Rita and Denise. I took photos and videos of it and edited them.
 
 ## VISUALISATION
