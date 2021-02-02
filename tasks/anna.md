@@ -14,7 +14,7 @@
 
 ## WEBSITE
 - We all searched for other websites as inspiration and moods
-- I created the web visualisation for our website
+- I created the web visualisation for our website. This was a lot of research on the look and performance for web-based particles
 - I learned the basics of react
 - I worked on the communication between the database and the visualisation with Ellina
 - We spent a lot of time on dicussing the website layout and design, the design of the illustrations, and the user interaction
@@ -31,8 +31,9 @@
 ## INSTALLATION
 - We all added moods for the installation setup
 - Rita and I brainstormed a lot about setup, projection, user experience
-- Rita and I did some projection tests on a white sheet
-- I looked up the studio layout and size
+- Rita and I did some projection tests on a white sheet. I took photos and videos of it and edited them.
+- I looked up the studio layout and size + communication with Sehsüchte (GeKo)
+- I built a miniature installation with Rita and Denise. I took photos and videos of it and edited them.
 
 ## VISUALISATION
 - We all added moods for the visualisation to the miro board
