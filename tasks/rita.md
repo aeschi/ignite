@@ -53,7 +53,7 @@
 - I suggested to change the visualization colours, after the first projection experiment.
 
 ## SOUND
-- I invited Felix and Julia to the project. I briefed them in advance, and I tried to find their motivations to help us.
+- I invited Felix and Julia to the project. I briefed them in advance.
 - I took part in most of the sound meetings.
 - I looked up some sound moods.
 
