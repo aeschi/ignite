@@ -45,7 +45,13 @@
 - Rita and I brainstormed a lot about setup, projection, user experience
 - I looked up the studio layout and size, as well as communicating with Sehsüchte (GeKo).
 - Rita and I made two projection tests on white sheets. I took photos and videos of it and edited them. The first test was just for trying it out and getting some feedback. The second test was for the installation teaser, which I shot and edited (Denise helped me with the sound file).
-- I also built a miniature installation with Rita and Denise. I took photos and videos of it also for the teaser and photo material.
+- I also built a miniature installation with Rita and Denise. We used small wooden skewers, a 3D pen and tissues to create the structure. I took photos and videos of it also for the teaser and photo material.
+Here are some behind the scenes of the teaser:
+
+<img src="https://i.imgur.com/nRsIkhJ.jpg" width="47%"> <img src="https://i.imgur.com/lzcwtCl.png" width="47%">
+
+And the teaser link: [REMNANTS | kind acts of cruelty | Teaser](https://vimeo.com/509402966) 
+
 
 ## VISUALISATION
 - We all added moods for the visualisation to the miro board
