@@ -9,36 +9,47 @@
 
 
 #### ORGANISATION/ WORK STRUCTURE
-- I mostly moderated/guided our meetings
-- I checked the intentions within the group to clarify the individual tasks
+- I attended every group meeting, which happened twice a week, so about 28 meetings ranging from 1-5 hours
+- I also attended almost every departement meeting
+- I would say I played the most active role in our meetings mostly moderating them
+- I checked the intentions within our group to clarify the individual tasks
 
 ## WEBSITE
 - We all searched for other websites as inspiration and moods
-- I created the web visualisation for our website. This was a lot of research on the look and performance for web-based particles
-- I learned the basics of react
-- I worked on the communication between the database and the visualisation with Ellina
 - We spent a lot of time on dicussing the website layout and design, the design of the illustrations, and the user interaction
-- Research on audio player integration for interview page
+- I gave feedback on the Flos illustrations that Rita had planned.
+- I learned the basics of react
+- I created the web visualisation for our website. The main tasks were:
+  - research on the look of the particles
+  - improving performance for web-based particles
+  - smooth animation between phrases to random position in a sphere back the next phrase
+  - connecting the database Ellina created (where website user can enter their own phrase) to the visualisation. This took quite a while, figuring out how to pass on data with react between different components
+  
+<img src="https://i.imgur.com/MbYe7EM.png" width="33%"><img src="https://i.imgur.com/anQJkQv.png" width="33%"><img src="https://i.imgur.com/ktjo7Cc.png" width="33%">
+- I created the Interviews page. For that I had to research a bit about different forms of audio player integration.
+<img src="https://i.imgur.com/MbYe7EM.png" width="50%"><img src="https://i.imgur.com/anQJkQv.png" width="50%">
+- I created the Installation page. It's only a first version with some text and the embedded teaser for now.
+<img src="https://i.imgur.com/MbYe7EM.png" width="50%"><img src="https://i.imgur.com/anQJkQv.png" width="50%">
 
 ## INTERVIEWS
 - Rita suggested only using the audio or to alienate the footage in some way and we discussed and brainstormed about the idea. (Elaborate more, why..)
 - I encouraged eveybody to ask around for possible interviewees
 - We all discussed possible questions for the individual interviewees as well as the professional organisation
 - I defined the [technical setup/ guidline for conducting the interviews ](https://docs.google.com/document/d/1HA190BUDEBigxHGpKLe4tG7bKwOXOTPoK0li0lYYFZQ/edit?usp=sharing)
-- I conducted some of the interviews
-- I edited interviews
-- I suggested putting up the audio file underneath a written question on the website to structure it and have shorter audio files as a result
+- I conducted some of the interviews (Aluel and Fannie)
+- I did a first edit of the interview with Aluel. Denise took over editing them in the end.
+- I suggested putting up the audio file underneath a written question on the website to structure it and have shorter audio files as a result.
 
 ## INSTALLATION
 - We all added moods for the installation setup
 - Rita and I brainstormed a lot about setup, projection, user experience
-- Rita and I did some projection tests on a white sheet. I took photos and videos of it and edited them.
 - I looked up the studio layout and size, as well as communicating with Sehsüchte (GeKo).
-- I built a miniature installation with Rita and Denise. I took photos and videos of it and edited them.
+- Rita and I made two projection tests on white sheets. I took photos and videos of it and edited them. The first test was just for trying it out and getting some feedback. The second test was for the installation teaser, which I shot and edited (Denise helped me with the sound file).
+- I also built a miniature installation with Rita and Denise. I took photos and videos of it also for the teaser and photo material.
 
 ## VISUALISATION
 - We all added moods for the visualisation to the miro board
-- Zainab was in charge of the visualisation I mostly just gave her my opinion on the results
+- Zainab was in charge of the visualisation. I gave her my opinion on the results, especially regarding the visual shape, particle coount, particle movement
 
 ## SOUND
 - I added some moods for the "nice" atmospheric sound for the "not nice" sounds to the miro board 
