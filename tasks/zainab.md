@@ -15,6 +15,10 @@ We spent quite some time coming up with a title. I suggested remnants because it
 - Everyone gave their input on the design of the website but Rita was responsible for designing the website.
 - I worked on the front-end of 2 sections (definition and reaction). I learned the basics of react, and about different layout systems in Css, e.g flexbox, grid-layout. 
 
+<img src="./img/definition1.png" width="25%"> <img src="./img/definition2.png" width="25%"> 
+
+<img src="./img/reaction1.png" width="25%"> <img src="./img/reaction2.png" width="25%"> 
+
 ## INTERVIEWS
 - I wasn't part of the Interview team. But I went through the recordings of the interview and gave my review.
 
@@ -32,6 +36,10 @@ We spent quite some time coming up with a title. I suggested remnants because it
 - I learned the basics of vfx graph but using unity for implementing the visuals posed a few problems, e.g for forming phrases with particles. The text had to be a 3D model with sdf and it was performance heavy, so I decided to switch to TouchDesigner. 
 - I implemented all the properties regarding the visualisation in Touchdesigner, e.g particle system, shape of particles, compositing, parsing Json data forming phrases, timing etc. 
 - I only knew the basics of Touchdesigner. I improved my knowledge in using different functionalities of Tocudesigner. I learned about scripting in python, using differnt operators for different funtionalities, using timers, using different maths operators. I also learned about parsing Json data in python. 
+
+<img src="./img/touchdesigner.png" width="80%"> 
+
+<img src="./img/touchdesigner_progress.gif" width="80%"> 
 
 ## SOUND
 - I attended the meetings with Julia and Felix (who created the sound design) and gave my feedback. We discussed about certain properties of the sound, e.g if it should be interactive, length of the audio, the feeling it should convey, the overall structure of the audio etc.
