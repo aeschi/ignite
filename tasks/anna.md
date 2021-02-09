@@ -20,7 +20,7 @@
 - I gave feedback on the Flos illustrations that Rita had planned
 - I learned the basics of react
 
-### Visualisation
+### VISUALISATION (WEB)
 - I created the web visualisation for our website. The main tasks were:
   - research on the look of the particles
   - improving performance for web-based particles
@@ -52,15 +52,20 @@ This is the final result with 2200 particles and connected to the database, wher
 <img src="https://i.imgur.com/MbYe7EM.png" width="33%"><img src="img/final_vis.gif" width="33%"><img src="https://i.imgur.com/ktjo7Cc.png" width="33%">
 
 
-- I created the Interviews page. For that I had to research a bit about different forms of audio player integration as well as making it nicely responsive with all elements (questions, interviewee character image, audio file)
+### INTERVIEWS PAGE
+I created the Interviews page. For that I had to research a bit about different forms of audio player integration as well as making it nicely responsive with all elements (questions, interviewee character image, audio file)
 
 https://ctech-microaggressions.web.app/interviews/
 
 <img src="https://i.imgur.com/czKQnVy.png" width="50%"><img src="https://i.imgur.com/VFJqHt2.png" width="50%">
 
+
+
+### INSTALLATION PAGE
+I created the Installation page. It's only a first version with some text and the embedded teaser for now.
+
 https://ctech-microaggressions.web.app/installation/
 
-- I created the Installation page. It's only a first version with some text and the embedded teaser for now.
 <img src="https://i.imgur.com/ZxQMe7x.png" width="50%"><img src="https://i.imgur.com/jvt1T25.png" width="50%">
 
 ## INTERVIEWS
