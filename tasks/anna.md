@@ -14,7 +14,12 @@
 - I would say I played the most active role in our meetings by moderating/ leading them
 - I checked the intentions and interests of everyone for the project to clarify the individual tasks (so that everybody is happy with it)
 
+### LEARNINGS
+I usually like taking the leading role in projects, but I really wanted to "not just be the producer" in this project. So I'm very happy how everything worked out with our team captain structure. It also helped to ask Klara for help as a producer, so she can help us planning and applying to festivals. I think this is a good way of working for me - partially taking the lead in organising, but also having enough time for working on the project myself.
+
+
 ## WEBSITE
+- I was team captain together with Ellina
 - We all searched for other websites as inspiration and moods
 - We spent a lot of time on dicussing the website layout and design, the design of the illustrations, and the user interaction
 - I gave feedback on the Flos illustrations that Rita had planned
@@ -68,11 +73,13 @@ https://ctech-microaggressions.web.app/installation/
 
 <img src="https://i.imgur.com/ZxQMe7x.png" width="50%"><img src="https://i.imgur.com/jvt1T25.png" width="50%">
 
+### LEARNINGS
+I spent a big amount of my time for this project on the website. Mainly creating the visualisation and connecting it to the database. I learned a couple of new tools like react, gsap, more of three.js and refreshed some more basic JavaScript knowledge.
+
 ## INTERVIEWS
 - Rita suggested only using the audio or to alienate the footage in some way and we discussed and brainstormed about it. The idea is to create a less specific image of the interviewee, so the listener can project it onto more people in their enviroment. Another reason for not showing the video of the interviews is the bad zoom quality, since we can't shoot the interviews personallly due to covid-19. So instead each interviewee gets a character assigned (Florian Kempf created them):
 
 <img src="https://i.imgur.com/TKRy3fR.png" width="33%"><img src="https://i.imgur.com/eRL1jgY.png" width="33%"><img src="https://i.imgur.com/5Z162Uv.png" width="33%">
-
 
 - I encouraged everybody to ask around for possible interviewees
 - We all discussed possible questions for the individual interviewees as well as the professional organisation
@@ -81,7 +88,11 @@ https://ctech-microaggressions.web.app/installation/
 - I did a first edit of the interview with Aluel. Denise took over editing them in the end
 - I suggested putting up the audio file underneath a written question on the website to structure it and have shorter audio files as a result
 
+### LEARNINGS
+Conducting the interviews was very interesting and educating for me. 
+
 ## INSTALLATION
+- I was team captain together with Rita
 - We all added moods for the installation setup
 - Rita and I brainstormed a lot about setup, projection, user experience
 - I looked up the studio layout and size, as well as communicating with Sehsüchte (GeKo)
@@ -93,6 +104,8 @@ Here are some behind the scenes of the teaser:
 
 And the teaser link: [REMNANTS | kind acts of cruelty | Teaser](https://vimeo.com/509402966) 
 
+### LEARNINGS
+It is hard to plan an inststallation with being able to meet in a group. I think we already figured out some important factors for building the structure and projecting onto it, but I'm sure there will be a lot more insights, when we actually built it :)
 
 ## VISUALISATION
 - We all added moods for the visualisation to the miro board
@@ -110,3 +123,5 @@ And the teaser link: [REMNANTS | kind acts of cruelty | Teaser](https://vimeo.co
 
 # Conclusion
 I think this is one of the best group projects I've ever been apart of. The flat hierarchy worked extremly well. I sort of took the lead in managing all of our meetings and generally taking the producer role, but it wasn't such a big role since we had a captain for each departement anyways. Everybody was in charge of a departement, so the responsibility was clear and well distributed. However, one could still be part of any team to share their opinion without having to actively work on it. So for example I was on the sound team, where I looked up sound moods and expressed my thoughts, but I dindn't create the actual sound design. This way everyone felt very integrated in what interests them about the project. 
+
+I already learned a lot from the project on a conceptual and technical level, but also about the topic itself. 
