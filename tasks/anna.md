@@ -41,7 +41,7 @@
 <img src="img/orbit.gif" width="60%">
 
 - Additionally I am adding a random value to the vertices, so the shape gets distorted. The random value is also multiplied (by 3) to increase the distortion.
-<img src="img/vertices_random" width="60%">
+<img src="img/vertices_random.gif" width="60%">
 
 - The last step is animating the shards from a phrase to random points in a sphere and then back to the next phrase saved in the database. I used the library gsap to achieve a smooth animation with an ease function and easy adjustments for timing the animation: 
 <img src="img/animation.gif" width="60%">
@@ -53,7 +53,13 @@ This is the final result with 2200 particles and connected to the database, wher
 
 
 - I created the Interviews page. For that I had to research a bit about different forms of audio player integration as well as making it nicely responsive with all elements (questions, interviewee character image, audio file)
+
+https://ctech-microaggressions.web.app/interviews/
+
 <img src="https://i.imgur.com/czKQnVy.png" width="50%"><img src="https://i.imgur.com/VFJqHt2.png" width="50%">
+
+https://ctech-microaggressions.web.app/installation/
+
 - I created the Installation page. It's only a first version with some text and the embedded teaser for now.
 <img src="https://i.imgur.com/ZxQMe7x.png" width="50%"><img src="https://i.imgur.com/jvt1T25.png" width="50%">
 
