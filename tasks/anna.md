@@ -27,9 +27,9 @@
   
 <img src="https://i.imgur.com/MbYe7EM.png" width="33%"><img src="https://i.imgur.com/anQJkQv.png" width="33%"><img src="https://i.imgur.com/ktjo7Cc.png" width="33%">
 - I created the Interviews page. For that I had to research a bit about different forms of audio player integration.
-<img src="https://i.imgur.com/MbYe7EM.png" width="50%"><img src="https://i.imgur.com/anQJkQv.png" width="50%">
+<img src="https://i.imgur.com/czKQnVy.png" width="50%"><img src="https://i.imgur.com/VFJqHt2.png" width="50%">
 - I created the Installation page. It's only a first version with some text and the embedded teaser for now.
-<img src="https://i.imgur.com/MbYe7EM.png" width="50%"><img src="https://i.imgur.com/anQJkQv.png" width="50%">
+<img src="https://i.imgur.com/ZxQMe7x.png" width="50%"><img src="https://i.imgur.com/jvt1T25.png" width="50%">
 
 ## INTERVIEWS
 - Rita suggested only using the audio or to alienate the footage in some way and we discussed and brainstormed about the idea. (Elaborate more, why..)
