@@ -50,3 +50,4 @@ We spent quite some time coming up with a title. I suggested remnants because it
 - I watched videos and read articles on the topic.
 
 # Conclusion
+This was the biggest university project (scope-wise) I worked on in a team. The organisation was super effective. Every team was efficient and even though you were not a memeber of a specific, team you could still give your input. All the meeting were productive. One drawback of having the meetings on zoom was that it was more exhausting compared to meetings in person. Overall I learned a lot about not only the topic but also about developing a project from conceptualisation to implementation.
