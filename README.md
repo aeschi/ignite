@@ -18,4 +18,4 @@
 - https://vimeo.com/509402966
 
 ### Here is our presentation
-- ...
+- https://github.com/aeschi/ignite/blob/main/Remnants_presentation.pdf
